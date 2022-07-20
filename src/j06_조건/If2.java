@@ -1,4 +1,4 @@
-package jo6_조건;
+package j06_조건;
 
 public class If2 {
 
